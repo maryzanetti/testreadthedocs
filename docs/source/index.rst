@@ -12,10 +12,10 @@ Contents
 
 .. toctree::
 
-   Cosseguro
-   Resseguro
-   Emissão
-   Cancelamento
-   Sinistro
-   SAP
+   cosseguro
+   resseguro
+   emissão
+   cancelamento
+   sinistro
+   sap
    
