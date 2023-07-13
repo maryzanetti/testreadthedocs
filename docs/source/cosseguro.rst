@@ -1,7 +1,7 @@
-API
+Cosseguro
 ===
 
 .. autosummary::
    :toctree: generated
 
-   lumache
+   
