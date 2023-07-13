@@ -1,17 +1,12 @@
-Usage
+Resseguro
 =====
 
-.. _installation:
+.. _descriçao:
 
-Installation
+Descrição
 ------------
 
-To use Lumache, first install it using pip:
-
-.. code-block:: console
-
-   (.venv) $ pip install lumache
-
+Resseguro é a operação pela qual o segurador transfere a outro, total ou parcialmente, um risco assumido através da emissão de uma apólice ou um conjunto delas. Dessa forma reduz-se a responsabilidade na aceitação de um risco considerado excessivo, cedendo a outro uma parte da responsabilidade e do prêmio recebido.
 Creating recipes
 ----------------
 
