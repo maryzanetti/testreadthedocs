@@ -12,5 +12,10 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   Cosseguro
+   Resseguro
+   Emissão
+   Cancelamento
+   Sinistro
+   SAP
+   
